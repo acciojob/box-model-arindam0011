@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#cont{
+.container{
 	display:flex;
 	border: 2px solid black;
 	padding: 20px 50px;
@@ -9,20 +9,20 @@
 	text-align:centre;
 }
 
-#green{
+.green{
 	width:100px;
 	height:100px;
 	background-color:green;
 	border-radius:50%;
 }
-#yellow{
+.yellow{
 	width:100px;
 	height:100px;
 	background-color:yellow;
 	border-radius:50%;
 	margin-inline:20px
 }
-#red{
+.red{
 	width:100px;
 	hight:100px;
 	background-color:red;
